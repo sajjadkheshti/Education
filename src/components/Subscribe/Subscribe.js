@@ -41,7 +41,7 @@ const Subscribe = () => {
                                 className="primary-btn !mt-8 inline-flex items-center gap-4 group
               text-white bg-primary hover:bg-primary-dark
               py-3 px-6 rounded-full duration-300"
-                                href="#"
+                                href="/" aria-disabled="true"
                             >
                                 عضویت
                                 <FaBell

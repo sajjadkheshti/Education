@@ -105,9 +105,9 @@ const ContactUs = () => {
                     </div>
 
                     <div className="flex justify-end gap-4 mt-6 text-primary">
-                        <a href="#"><FaTelegramPlane size={22} /></a>
-                        <a href="#"><FaLinkedin size={22} /></a>
-                        <a href="#"><FaInstagram size={22} /></a>
+                        <a href="/" aria-disabled="true"><FaTelegramPlane size={22} /></a>
+                        <a href="/" aria-disabled="true"><FaLinkedin size={22} /></a>
+                        <a href="/" aria-disabled="true"><FaInstagram size={22} /></a>
                     </div>
                 </motion.div>
             </section>

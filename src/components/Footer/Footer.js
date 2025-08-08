@@ -70,7 +70,7 @@ const Footer = () => {
                         {/* Social icons */}
                         <div className="flex flex-row-reverse gap-6 pt-2">
                             {[FaWhatsapp, FaInstagram, FaYoutube, TbWorldWww].map((Icon, index) => (
-                                <a href="#" key={index}>
+                                <a href="/" aria-disabled="true" key={index}>
                                     <Icon className="cursor-pointer hover:text-primary hover:scale-105 duration-200 text-3xl md:text-4xl" />
                                 </a>
                             ))}

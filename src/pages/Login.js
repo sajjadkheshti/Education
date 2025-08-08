@@ -61,7 +61,7 @@ const Login = () => {
                                             <input type="checkbox" />
                                             مرا به خاطر بسپار
                                         </label>
-                                        <a href="#" className="text-primary hover:underline">فراموشی رمز عبور؟</a>
+                                        <a href="/" aria-disabled="true" className="text-primary hover:underline">فراموشی رمز عبور؟</a>
                                     </div>
 
                                     <button type="submit" className="w-full primary-btn mt-4">

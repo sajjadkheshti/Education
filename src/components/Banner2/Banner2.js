@@ -24,7 +24,7 @@ const Banner2 = () => {
                             شما می‌توانید عکس‌ها را برش دهید و پس‌زمینه محصولات را برای فروشگاه‌های آنلاین خود به رنگ سفید یا مشکی تغییر دهید. همچنین می‌توانید امضای PNG با پس‌زمینه غیربشفاف را شفاف کنید.
                         </p>
                         <a
-                            href="#"
+                            href="/" aria-disabled="true"
                             className="primary-btn !mt-8 inline-block
               text-white bg-primary hover:bg-primary-dark
               py-3 px-6 rounded-full duration-300"
